@@ -1,0 +1,26 @@
+.name{
+    font-weight: bold;
+}
+
+#icon-grid img{
+    margin-right: 10px;
+}
+
+.bg-c{
+    background-color: #FEFDED;
+ }
+
+.main{
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.carousel{
+    margin-left: 110px;
+    margin-right: 110px;
+}
+
+.one{
+    font-weight: 800;
+}
